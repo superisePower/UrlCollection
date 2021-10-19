@@ -1,1 +1,0 @@
-[谈谈JVM内部锁升级过程](https://mp.weixin.qq.com/s/2yxexZUr5MWdMZ02GCSwdA)
